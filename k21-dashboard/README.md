@@ -34,8 +34,9 @@ K21 Sales Dashboard is a fictional quarterly performance dashboard for a SaaS co
 ### Installation
 
 ```bash
-# Clone the repo
-git clone https://github.com/MAOFILHO/Claude-artifacts.git
+# Download the project
+https://download-directory.github.io/?url=https://github.com/MAOFILHO/Claude-artifacts/tree/main/k21-dashboard
+
 cd Claude-artifacts/k21-dashboard
 
 # Install dependencies

@@ -74,6 +74,13 @@ k21-dashboard/
 
 > Dashboard includes a responsive 4-column KPI header, area chart, and bar chart with a shared period filter.
 
+<img width="1305" height="768" alt="Screenshot 2026-05-29 at 3 11 12 PM" src="https://github.com/user-attachments/assets/f90cdd33-6326-438e-94a1-df7faba7d4de" />
+
+<img width="1356" height="747" alt="Screenshot 2026-05-29 at 3 12 20 PM" src="https://github.com/user-attachments/assets/0db6e12b-9f08-4dc0-b82b-9173ac9767e6" />
+
+<img width="1422" height="743" alt="Screenshot 2026-05-29 at 3 11 58 PM" src="https://github.com/user-attachments/assets/61010514-a6a5-44bb-bc91-05719f07503c" />
+
+
 ---
 
 Built with [Claude](https://claude.ai) · Part of the [Claude Artifacts](https://github.com/MAOFILHO/Claude-artifacts) collection

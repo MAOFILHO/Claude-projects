@@ -39,6 +39,9 @@ https://download-directory.github.io/?url=https://github.com/MAOFILHO/Claude-art
 
 cd Claude-artifacts/k21-dashboard
 
+# Create the Vite
+npm create vite@latest . -- --template react   
+
 # Install dependencies
 npm install
 

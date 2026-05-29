@@ -1,0 +1,1 @@
+- [Project Testing Conventions](project-testing-conventions.md) — Jest v30, CommonJS require, tests/ dir, nested describe groups, dual TypeError assertions

@@ -1,6 +1,6 @@
-# Claude Artifacts — Lab Guide
+# Claude Artifacts
 
-> A hands-on lab for building, iterating, and publishing interactive content with Claude AI Artifacts.
+> The goal is to build, iterate, and publish interactive content with Claude AI Artifacts.
 
 ---
 
@@ -73,9 +73,9 @@ Claude automatically decides when content warrants an Artifact. The general trig
 
 ---
 
-## Lab Deliverables
+## Deliverables
 
-By the end of this lab you will have a small portfolio of five published Artifacts — one of each type — demonstrating the full range of Claude's Artifact capabilities.
+By the end of this project you will have a small portfolio of five published Artifacts — one of each type — demonstrating the full range of Claude's Artifact capabilities.
 
 ---
 
